@@ -21,7 +21,7 @@ The dataset covers **8 health indicators** across five themes (Outcomes, Mortali
 
 The headline of the dashboard is a 2×2 grid of **Africa choropleth maps** for 2022 — so country-to-country variation is visible at a single glance.
 
-![Four Africa health maps](screenshots/maps_grid.png)
+![Four Africa health maps](maps_grid.png)
 
 | Map | Reads as | Pattern in 2022 |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ The headline of the dashboard is a 2×2 grid of **Africa choropleth maps** for 2
 
 ## 📊 The interactive dashboard
 
-![Dashboard KPIs](screenshots/dashboard_top.png)
+![Dashboard KPIs](dashboard_top.png)
 
 **KPI cards** (all live formulas):
 - Countries reporting · Continent average · Change since 2000 · Top performer · Needs attention
@@ -45,7 +45,7 @@ The **Top performer** and **Needs attention** cards are *direction-aware*: for a
 
 **Four reactive charts:**
 
-![Charts](screenshots/charts.png)
+![Charts](charts.png)
 
 - 🏅 **Top 10 countries** for the selected indicator (blue)
 - 🚩 **Worst 10 countries** — the lagging end, mirrored for comparison (orange)
@@ -58,11 +58,11 @@ The **Top performer** and **Needs attention** cards are *direction-aware*: for a
 
 A written **Report** sheet explains the dataset, methodology, what each map shows, and honest data-quality notes — with a live 2000-vs-2022 comparison table.
 
-![Report](screenshots/report.png)
+![Report](report.png)
 
 An **Insights** sheet turns the numbers into a story for stakeholders, plus recommendations.
 
-![Insights](screenshots/insights.png)
+![Insights](insights.png)
 
 ---
 
@@ -156,6 +156,6 @@ This dataset is **illustrative** and intended for portfolio demonstration. A few
 ## 👤 Author
 
 **HayMedics Healthcare Analytics** — Data Analytics Portfolio
-_Add your LinkedIn / portfolio link here._
+_https://www.linkedin.com/in/awal-abdulrahman-md-a53483219_
 
 ⭐ If you find this useful, consider starring the repo.
