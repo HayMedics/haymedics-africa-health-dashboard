@@ -1,0 +1,14 @@
+# Excel / Office temp & lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (if you add scripts later)
+__pycache__/
+*.pyc
+.venv/
