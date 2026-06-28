@@ -149,13 +149,13 @@ haymedics-africa-health-dashboard/
 
 ## ⚠️ Data note
 
-This dataset is **illustrative** and intended for portfolio demonstration. A few values are clear outliers (e.g. Central African Republic’s 2022 figures) and would be validated against authoritative sources such as the **WHO** or **World Bank** before any real-world use. The dashboard intentionally flags this in its Data-quality section — good analyst practice.
+This dataset is sourced from  World Bank Health Nutrition and Population Statistics — https://databank.worldbank.org/source/health-nutrition-and-population-statistics
 
 ---
 
 ## 👤 Author
 
-**HayMedics Healthcare Analytics** — Data Analytics Portfolio
+**Awal Olalekan Abdulrahman** | HayMedics Healthcare Analytics
 _https://www.linkedin.com/in/awal-abdulrahman-md-a53483219_
 
 ⭐ If you find this useful, consider starring the repo.
